@@ -594,8 +594,9 @@ function calculatePrognosticsV2(parsedQuartersData: any[], homeTeamId: string, a
   return { homeTeam: homePrognostics, awayTeam: awayPrognostics };
 }
 
-export async function GET(request: NextRequest, context: { params: { gameId: string } }) {
-  const { gameId } = await context.params;
+export async function GET(request: NextRequest, context: { params: Promise<{ gameId: string }> } | { params: { gameId: string } }) {
+  const params = await (context as any).params;
+  const gameId = params?.gameId;
 
   try {
     // 1. Read all necessary data files

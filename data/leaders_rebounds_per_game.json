@@ -1,0 +1,262 @@
+[
+  {
+    "rank": 1,
+    "value": null,
+    "player_id": "f2625432-3903-4f90-9b0b-2e4f63856bb0",
+    "player_name": "Nikola Jokić",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 2,
+    "value": null,
+    "player_id": "ab532a66-9314-4d57-ade7-bb54a70c65ad",
+    "player_name": "Karl-Anthony Towns",
+    "position": "C-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 3,
+    "value": null,
+    "player_id": "2da18268-82d4-4b40-a296-7ceddd435d0b",
+    "player_name": "Ivica Zubac",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 4,
+    "value": null,
+    "player_id": "00fb2704-aa25-4ef7-8972-cde454810810",
+    "player_name": "Jalen Duren",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 5,
+    "value": null,
+    "player_id": "38745a56-7472-4844-a2dc-f61d3bcd941f",
+    "player_name": "Isaiah Hartenstein",
+    "position": "C-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 6,
+    "value": null,
+    "player_id": "f1e4fcb7-01c7-479f-8883-c33ac438690e",
+    "player_name": "Kel'el Ware",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 7,
+    "value": null,
+    "player_id": "37fbc3a5-0d10-4e22-803b-baa2ea0cdb12",
+    "player_name": "Rudy Gobert",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 8,
+    "value": null,
+    "player_id": "c76e8dae-58ad-4950-8929-5094036210c4",
+    "player_name": "Donovan Clingan",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 9,
+    "value": null,
+    "player_id": "6c60282d-165a-4cba-8e5a-4f2d9d4c5905",
+    "player_name": "Giannis Antetokounmpo",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 10,
+    "value": null,
+    "player_id": "66ea876a-1cc9-47ed-ae31-2ed3c8f9350e",
+    "player_name": "Josh Giddey",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 10,
+    "value": null,
+    "player_id": "d222539f-fa52-4070-807f-d3aba372f46d",
+    "player_name": "Jalen Johnson",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 12,
+    "value": null,
+    "player_id": "7366b2b7-5959-4dd9-9204-760e861b3119",
+    "player_name": "Nikola Vučević",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 13,
+    "value": null,
+    "player_id": "a8b48aa9-cf98-4a87-8bba-e88eead8cdaa",
+    "player_name": "Jusuf Nurkić",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 14,
+    "value": null,
+    "player_id": "440b769d-2b8b-477f-80d7-cb21d83c0d52",
+    "player_name": "Andre Drummond",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 15,
+    "value": null,
+    "player_id": "a208e22a-6b63-45f9-b7c6-bf913a68f3df",
+    "player_name": "Steven Adams",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 16,
+    "value": null,
+    "player_id": "47ff78e7-5607-48d6-9c1a-bddb075dbe70",
+    "player_name": "Alperen Sengun",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 17,
+    "value": null,
+    "player_id": "d64b602e-45f2-4ba9-878b-0a4f7210ec77",
+    "player_name": "Evan Mobley",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 18,
+    "value": null,
+    "player_id": "a5ec46e9-928f-4609-ab4d-c86ec6434327",
+    "player_name": "Mark Williams",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 19,
+    "value": null,
+    "player_id": "d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7",
+    "player_name": "Luka Dončić",
+    "position": "F-G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 20,
+    "value": null,
+    "player_id": "11c303dc-540c-4090-8e0c-76c2fb2c125a",
+    "player_name": "Bam Adebayo",
+    "position": "C-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 21,
+    "value": null,
+    "player_id": "7ca4beac-bbd6-454f-b820-4e8442a3e1e5",
+    "player_name": "Deandre Ayton",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 22,
+    "value": null,
+    "player_id": "fe4c4f99-5dfb-4e32-b69a-da8c5a779c27",
+    "player_name": "Alex Sarr",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 23,
+    "value": null,
+    "player_id": "7cfc1044-54f9-4788-af5f-8d943f992e0d",
+    "player_name": "Neemias Queta",
+    "position": "C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 24,
+    "value": null,
+    "player_id": "1738927f-6ef3-4b23-921d-168b4371f917",
+    "player_name": "Scottie Barnes",
+    "position": "F-G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 25,
+    "value": null,
+    "player_id": "eb91a4c8-1a8a-46bf-86e6-e16950b67ef6",
+    "player_name": "Chet Holmgren",
+    "position": "C-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 25,
+    "value": null,
+    "player_id": "78dc76b4-a810-4e4a-9418-5cf3fa03582f",
+    "player_name": "Moussa Diabaté",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  }
+]

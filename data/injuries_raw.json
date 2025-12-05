@@ -1,0 +1,2524 @@
+{
+  "league": {
+    "id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+    "name": "NBA",
+    "alias": "NBA"
+  },
+  "teams": [
+    {
+      "id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Lakers",
+      "market": "Los Angeles",
+      "sr_id": "sr:team:3427",
+      "reference": "1610612747",
+      "players": [
+        {
+          "id": "d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7",
+          "full_name": "Luka Dončić",
+          "first_name": "Luka",
+          "last_name": "Dončić",
+          "position": "F-G",
+          "primary_position": "PG",
+          "jersey_number": "77",
+          "sr_id": "sr:player:926008",
+          "reference": "1629029",
+          "injuries": [
+            {
+              "id": "07cc85c3-7998-401a-8e68-963c8e221a04",
+              "comment": "The Lakers listed Doncic as OUT for Thursday's (Dec. 4) game against Toronto.",
+              "desc": "Personal",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "af460d21-b1d8-46bb-a228-61ac4fb9ccf9",
+          "full_name": "Marcus Smart",
+          "first_name": "Marcus",
+          "last_name": "Smart",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "36",
+          "sr_id": "sr:player:607636",
+          "reference": "203935",
+          "injuries": [
+            {
+              "id": "2fd4990b-8d39-419c-8bad-5f2567fe268e",
+              "comment": "The Lakers listed Smart as OUT for Thursday's (Dec. 4) game against Toronto.",
+              "desc": "Back",
+              "status": "Out",
+              "start_date": "2025-11-27",
+              "update_date": "2025-12-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Bulls",
+      "market": "Chicago",
+      "sr_id": "sr:team:3409",
+      "reference": "1610612741",
+      "players": [
+        {
+          "id": "689cb3b0-a7cc-45b5-860d-007597029c8c",
+          "full_name": "Jalen Smith",
+          "first_name": "Jalen",
+          "last_name": "Smith",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "25",
+          "sr_id": "sr:player:1491980",
+          "reference": "1630188",
+          "injuries": [
+            {
+              "id": "08a73b9e-c2e9-4938-a7bf-5bbf7af2d41e",
+              "comment": "Smith did not play in Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Knee",
+              "status": "Day To Day",
+              "start_date": "2025-11-29",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "b5310b38-a378-464f-b344-928adee0ed00",
+          "full_name": "Zach Collins",
+          "first_name": "Zach",
+          "last_name": "Collins",
+          "position": "F-C",
+          "primary_position": "PF",
+          "jersey_number": "12",
+          "sr_id": "sr:player:1141194",
+          "reference": "1628380",
+          "injuries": [
+            {
+              "id": "3dac6014-2db8-49ad-bd82-a4e4483a11b6",
+              "comment": "The Bulls listed Collins as Out  for Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Wrist",
+              "status": "Out",
+              "start_date": "2025-10-18",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "5ab15bad-59b4-43c9-98fc-1d0aa8182d01",
+          "full_name": "Noa Essengue",
+          "first_name": "Noa",
+          "last_name": "Essengue",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "24",
+          "sr_id": "sr:player:2650203",
+          "reference": "1642855",
+          "injuries": [
+            {
+              "id": "5c6a794d-39d3-4534-84fd-eb96425b1e33",
+              "comment": "Noa Essengue will have shoulder surgery and will miss the remainder of the season, per Billy Donovan.",
+              "desc": "Shoulder",
+              "status": "Out For Season",
+              "start_date": "2025-11-29",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "a1e46e84-bd9e-454d-9117-a8fa1aab0ce4",
+          "full_name": "Coby White",
+          "first_name": "Coby",
+          "last_name": "White",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1582800",
+          "reference": "1629632",
+          "injuries": [
+            {
+              "id": "6b8fe61a-920e-4f8d-a167-8aa171d9340c",
+              "comment": "White did not play in Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Calf",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "2d4ce4bc-b03a-40bc-b22c-dab27591a429",
+          "full_name": "Tre Jones",
+          "first_name": "Tre",
+          "last_name": "Jones",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "30",
+          "sr_id": "sr:player:1491406",
+          "reference": "1630200",
+          "injuries": [
+            {
+              "id": "78a5ad98-1430-4aa3-bb41-96838f1b9312",
+              "comment": "Jones did not play in Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-12-02",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "858d255e-9a7b-4c7a-aac4-fc7cf3a5f238",
+          "full_name": "Kevin Huerter",
+          "first_name": "Kevin",
+          "last_name": "Huerter",
+          "position": "G-F",
+          "primary_position": "SG",
+          "jersey_number": "13",
+          "sr_id": "sr:player:1499267",
+          "reference": "1628989",
+          "injuries": [
+            {
+              "id": "88110ebe-0241-40b3-ae0b-685d7b6a94d0",
+              "comment": "Huerter did not play in Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Hamstring",
+              "status": "Day To Day",
+              "start_date": "2025-12-02",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "d13849d9-a696-44af-84a1-3196132c3ecd",
+          "full_name": "Isaac Okoro",
+          "first_name": "Isaac",
+          "last_name": "Okoro",
+          "position": "F-G",
+          "primary_position": "SG",
+          "jersey_number": "35",
+          "sr_id": "sr:player:1882742",
+          "reference": "1630171",
+          "injuries": [
+            {
+              "id": "c1eac5dd-b26a-42b6-910b-37695f293a59",
+              "comment": "Okoro did not play in Wednesday's (Dec. 3) game against Collins.",
+              "desc": "Lumbar",
+              "status": "Day To Day",
+              "start_date": "2025-11-22",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Raptors",
+      "market": "Toronto",
+      "sr_id": "sr:team:3433",
+      "reference": "1610612761",
+      "players": [
+        {
+          "id": "e1b3d3d5-b4b1-481a-b5b9-efe4231f48bf",
+          "full_name": "Jakob Poeltl",
+          "first_name": "Jakob",
+          "last_name": "Poeltl",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "19",
+          "sr_id": "sr:player:996287",
+          "reference": "1627751",
+          "injuries": [
+            {
+              "id": "09500580-01db-4cb3-b0ef-9d4747387fea",
+              "comment": "The Raptors listed Poeltl as OUT for Thursday's (Dec. 4) game against the Lakers.",
+              "desc": "Back",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "42c5f009-dfd2-4a94-a750-0943791e138e",
+          "full_name": "RJ Barrett",
+          "first_name": "RJ",
+          "last_name": "Barrett",
+          "position": "F-G",
+          "primary_position": "SF",
+          "jersey_number": "9",
+          "sr_id": "sr:player:1770168",
+          "reference": "1629628",
+          "injuries": [
+            {
+              "id": "abec7c90-749a-4653-85ec-68aaeccfbb0b",
+              "comment": "The Raptors announced Wednesday (Nov. 26) that an MRI on Barrett's right knee revealed no structural damage, as per Esfandiar Baraheni of The Athletic. He will be re-evaluated in seven days before the team updates his status.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-24",
+              "update_date": "2025-11-26"
+            }
+          ]
+        },
+        {
+          "id": "a7466782-6f87-414f-9458-7fea82922e00",
+          "full_name": "Ochai Agbaji",
+          "first_name": "Ochai",
+          "last_name": "Agbaji",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "30",
+          "sr_id": "sr:player:1491422",
+          "reference": "1630534",
+          "injuries": [
+            {
+              "id": "f2ee748b-377d-4db5-8892-220ba0324c4a",
+              "comment": "The Raptors have listed Agbaji as OUT for Thursday's (Dec. 4) game against the Lakers.",
+              "desc": "Personal",
+              "status": "Out",
+              "start_date": "2025-12-04",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pacers",
+      "market": "Indiana",
+      "sr_id": "sr:team:3419",
+      "reference": "1610612754",
+      "players": [
+        {
+          "id": "8571e039-8802-453a-aca5-7fdcb3ae1a28",
+          "full_name": "Quenton Jackson",
+          "first_name": "Quenton",
+          "last_name": "Jackson",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "29",
+          "sr_id": "sr:player:1951972",
+          "reference": "1631245",
+          "injuries": [
+            {
+              "id": "0d8d741e-ebad-4b2a-88c9-e09b99141b6c",
+              "comment": "Jackson did not play in Wednesday's (Dec. 3) game against Denver.",
+              "desc": "Hamstring",
+              "status": "Day To Day",
+              "start_date": "2025-11-04",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "ed000754-fb2c-4778-be6d-40cfc2400bd7",
+          "full_name": "Obi Toppin",
+          "first_name": "Obi",
+          "last_name": "Toppin",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "1",
+          "sr_id": "sr:player:1315510",
+          "reference": "1630167",
+          "injuries": [
+            {
+              "id": "40dee3c7-4356-46e9-87e9-2debe931fcb5",
+              "comment": "The Pacers announced that Toppin will undergo foot surgery and miss at least three months.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-10-26",
+              "update_date": "2025-10-31"
+            }
+          ]
+        },
+        {
+          "id": "90d63a71-e4fe-411c-9773-2e74b5e1cb3b",
+          "full_name": "Aaron Nesmith",
+          "first_name": "Aaron",
+          "last_name": "Nesmith",
+          "position": "G-F",
+          "primary_position": "SF",
+          "jersey_number": "23",
+          "sr_id": "sr:player:1593872",
+          "reference": "1630174",
+          "injuries": [
+            {
+              "id": "7e1a2b5e-3919-4098-b1f5-c2ad5f7d0c03",
+              "comment": "Nesmith is expected to be out for around four weeks, Dustin Dopirak of The Indianapolis Star reports.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-13",
+              "update_date": "2025-11-15"
+            }
+          ]
+        },
+        {
+          "id": "b159e65b-fd2f-415e-9cdd-46525e9897da",
+          "full_name": "Kam Jones",
+          "first_name": "Kam",
+          "last_name": "Jones",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "7",
+          "sr_id": "sr:player:2217718",
+          "reference": "1642880",
+          "injuries": [
+            {
+              "id": "9429bafe-97c4-47f8-b2a4-8132de77ef1b",
+              "comment": "Pacers head coach Rick Carlisle said on Monday (Nov. 10) that Jones is still not close to full recovery and is without an official timetable to return.",
+              "desc": "Back",
+              "status": "Out",
+              "start_date": "2025-10-16",
+              "update_date": "2025-11-10"
+            }
+          ]
+        },
+        {
+          "id": "254e42d7-df01-4c68-9264-bca06c83c2c1",
+          "full_name": "Tyrese Haliburton",
+          "first_name": "Tyrese",
+          "last_name": "Haliburton",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1493497",
+          "reference": "1630169",
+          "injuries": [
+            {
+              "id": "c77f3cf2-6c87-4224-8f18-a0d11908a5b6",
+              "comment": "The Pacers confirmed that Haliburton will miss the 2025-2026 season as he recovers from a torn Achilles.",
+              "desc": "Achilles",
+              "status": "Out For Season",
+              "start_date": "2025-06-22",
+              "update_date": "2025-07-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Warriors",
+      "market": "Golden State",
+      "sr_id": "sr:team:3428",
+      "reference": "1610612744",
+      "players": [
+        {
+          "id": "8e2c38f7-494f-4dd1-af73-a17238f216fa",
+          "full_name": "Alex Toohey",
+          "first_name": "Alex",
+          "last_name": "Toohey",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "22",
+          "sr_id": "sr:player:2683369",
+          "reference": "1642893",
+          "injuries": [
+            {
+              "id": "197ae1d3-29d1-48dd-ac6a-a87e6203d3df",
+              "comment": "The Warriors listed Toohey as OUT for Thursday's (Dec. 3) game against 76ers.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "8ec91366-faea-4196-bbfd-b8fab7434795",
+          "full_name": "Stephen Curry",
+          "first_name": "Stephen",
+          "last_name": "Curry",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "30",
+          "sr_id": "sr:player:608110",
+          "reference": "201939",
+          "injuries": [
+            {
+              "id": "58eadd28-6801-45f3-8509-c29204a67827",
+              "comment": "The Warriors said that Curry is expected to be OUT for at least 3 more games and hopes to play in Friday's (Dec. 12) game versus the Timberwolves.",
+              "desc": "Quadricep",
+              "status": "Out",
+              "start_date": "2025-11-27",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "0e163d44-67a7-4107-9421-5333600166bb",
+          "full_name": "Jimmy Butler III",
+          "first_name": "Jimmy",
+          "last_name": "Butler",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "10",
+          "name_suffix": "III",
+          "sr_id": "sr:player:607444",
+          "reference": "202710",
+          "injuries": [
+            {
+              "id": "fb1d3d50-ccfa-4de9-a080-4ef227f0b6f1",
+              "comment": "The Warriors listed Butler III as OUT for Thursday's (Dec. 3) game against 76ers.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-12-02",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hornets",
+      "market": "Charlotte",
+      "sr_id": "sr:team:3430",
+      "reference": "1610612766",
+      "players": [
+        {
+          "id": "59209028-6712-47ef-b87c-bdb19f91523b",
+          "full_name": "Grant Williams",
+          "first_name": "Grant",
+          "last_name": "Williams",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "2",
+          "sr_id": "sr:player:1179162",
+          "reference": "1629684",
+          "injuries": [
+            {
+              "id": "1a4e377f-9157-4d27-b104-2636a360c67c",
+              "comment": "Williams did not play in Wednesday's (Dec. 3) game against New York.",
+              "desc": "ACL",
+              "status": "Day To Day",
+              "start_date": "2024-11-24",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "298852ca-299d-4cb9-a9e5-6ac909582f78",
+          "full_name": "Pat Connaughton",
+          "first_name": "Pat",
+          "last_name": "Connaughton",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "21",
+          "sr_id": "sr:player:852114",
+          "reference": "1626192",
+          "injuries": [
+            {
+              "id": "52023785-fa90-440d-a1e4-a92de8545145",
+              "comment": "Connaughton did not play in Wednesday's (Dec. 3) game against New York.",
+              "desc": "Calf",
+              "status": "Day To Day",
+              "start_date": "2025-11-22",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "bda65c13-f2d4-43ec-b058-b7807bec4867",
+          "full_name": "Josh Green",
+          "first_name": "Josh",
+          "last_name": "Green",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "10",
+          "sr_id": "sr:player:1943544",
+          "reference": "1630182",
+          "injuries": [
+            {
+              "id": "91f7a6f5-7f65-4427-b7f9-1880e0d2b6c4",
+              "comment": "Green has yet to play this season and remains without a timetable for his return.",
+              "desc": "Shoulder",
+              "status": "Out",
+              "start_date": "2025-10-21",
+              "update_date": "2025-12-01"
+            }
+          ]
+        },
+        {
+          "id": "80b5cccf-203b-4482-92aa-76d1598216be",
+          "full_name": "Collin Sexton",
+          "first_name": "Collin",
+          "last_name": "Sexton",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "8",
+          "sr_id": "sr:player:1296148",
+          "reference": "1629012",
+          "injuries": [
+            {
+              "id": "c2362c00-159e-4762-85d8-956f661ceff6",
+              "comment": "Sexton did not return to Wednesday's (Dec. 3) game against the Knicks.",
+              "desc": "Thigh",
+              "status": "Day To Day",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "775e4450-cdcd-43a1-b4cd-dc29fba48503",
+          "full_name": "Brandon Miller",
+          "first_name": "Brandon",
+          "last_name": "Miller",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "24",
+          "sr_id": "sr:player:2438503",
+          "reference": "1641706",
+          "injuries": [
+            {
+              "id": "c3d85b59-c5d2-49e7-bc80-fbdbef42b600",
+              "comment": "Miller did not play in Wednesday's (Dec. 3) game against New York.",
+              "desc": "Shoulder",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "5b681679-4d8c-4964-bbba-5ed058257745",
+          "full_name": "Tre Mann",
+          "first_name": "Tre",
+          "last_name": "Mann",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "23",
+          "sr_id": "sr:player:1795018",
+          "reference": "1630544",
+          "injuries": [
+            {
+              "id": "e5aff947-d008-4d2a-8deb-3753803afd3c",
+              "comment": "Mann did not play in Wednesday's (Dec. 3) game against New York.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Nets",
+      "market": "Brooklyn",
+      "sr_id": "sr:team:3436",
+      "reference": "1610612751",
+      "players": [
+        {
+          "id": "a17d9b20-4e2b-4612-aecd-27938c997e94",
+          "full_name": "Haywood Highsmith",
+          "first_name": "Haywood",
+          "last_name": "Highsmith",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "7",
+          "sr_id": "sr:player:1663761",
+          "reference": "1629312",
+          "injuries": [
+            {
+              "id": "20921141-2725-4d8a-bd8b-b54e37749c15",
+              "comment": "Highsmith experienced swelling during rehab recently and will be re-evaluated in eight weeks, per Brett Siegel of ClutchPoints.com.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-10-19",
+              "update_date": "2025-10-19"
+            }
+          ]
+        },
+        {
+          "id": "3a7d6510-00e9-4265-81df-864a1f547269",
+          "full_name": "Michael Porter Jr.",
+          "first_name": "Michael",
+          "last_name": "Porter",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "17",
+          "name_suffix": "Jr.",
+          "sr_id": "sr:player:1307708",
+          "reference": "1629008",
+          "injuries": [
+            {
+              "id": "58e43d28-7251-4339-ab9d-86a2909faa63",
+              "comment": "The Nets have listed Porter Jr. as OUT for Thursday's (Dec. 4) game against the Jazz.",
+              "desc": "Rest",
+              "status": "Out",
+              "start_date": "2025-12-04",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "b60665b0-b5f3-4662-b7f8-454def5886db",
+          "full_name": "Drake Powell",
+          "first_name": "Drake",
+          "last_name": "Powell",
+          "position": "G-F",
+          "primary_position": "SG",
+          "jersey_number": "4",
+          "sr_id": "sr:player:2867985",
+          "reference": "1642962",
+          "injuries": [
+            {
+              "id": "6aa48f5c-d43a-49ff-9faf-2046f6abdc03",
+              "comment": "The Nets have listed Powell as OUT for Thursday's (Dec. 4) game against the Jazz.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-12-04",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "c6289b1b-7bb2-4ee6-8111-1a6e96aa9104",
+          "full_name": "Cam Thomas",
+          "first_name": "Cam",
+          "last_name": "Thomas",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "24",
+          "sr_id": "sr:player:2081895",
+          "reference": "1630560",
+          "injuries": [
+            {
+              "id": "ad54ecd6-0684-4ebd-b38b-11eab1f50f7e",
+              "comment": "Thomas has been diagnosed with a left hamstring strain, and he will be re-evaluated in 3-4 weeks, per Marc J. Spears of ESPN.com.",
+              "desc": "Hamstring",
+              "status": "Out",
+              "start_date": "2025-11-05",
+              "update_date": "2025-11-07"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Jazz",
+      "market": "Utah",
+      "sr_id": "sr:team:3434",
+      "reference": "1610612762",
+      "players": [
+        {
+          "id": "a8b48aa9-cf98-4a87-8bba-e88eead8cdaa",
+          "full_name": "Jusuf Nurkić",
+          "first_name": "Jusuf",
+          "last_name": "Nurkić",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "30",
+          "sr_id": "sr:player:607406",
+          "reference": "203994",
+          "injuries": [
+            {
+              "id": "2a198612-0b8f-4011-887b-38c42d1cd074",
+              "comment": "The Jazz listed Nurkic as Out for Thursday's (Dec. 4) game against Brooklyn.",
+              "desc": "Rib",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "fae899bc-3fc7-43d9-b2c9-35721d11e438",
+          "full_name": "Georges Niang",
+          "first_name": "Georges",
+          "last_name": "Niang",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "31",
+          "sr_id": "sr:player:1070998",
+          "reference": "1627777",
+          "injuries": [
+            {
+              "id": "4385a534-cf74-4dbf-a00b-1e2b0d2dd61a",
+              "comment": "The Jazz said on Saturday (Nov. 22) that Niang will miss at least 10-14 more days.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-09-27",
+              "update_date": "2025-11-22"
+            }
+          ]
+        },
+        {
+          "id": "7d615ccd-db96-42a3-9a6c-7f18ea25634e",
+          "full_name": "Kevin Love",
+          "first_name": "Kevin",
+          "last_name": "Love",
+          "position": "F-C",
+          "primary_position": "PF",
+          "jersey_number": "42",
+          "sr_id": "sr:player:607542",
+          "reference": "201567",
+          "injuries": [
+            {
+              "id": "4c49bb6a-0674-4862-a230-20148ef2577e",
+              "comment": "The Jazz listed Love as OUT for Thursday's (Dec. 4) game against Brooklyn.",
+              "desc": "Rest",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "7eccbdf9-58a3-4b96-8b1e-eaa8ea9da836",
+          "full_name": "Walker Kessler",
+          "first_name": "Walker",
+          "last_name": "Kessler",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "24",
+          "sr_id": "sr:player:2078487",
+          "reference": "1631117",
+          "injuries": [
+            {
+              "id": "959dff0b-ee3a-46bd-bcc5-23eb7d359002",
+              "comment": "Kessler will undergo left shoulder surgery to address a torn labrum and will miss the remainder of the 2025-26 season, as per Tony Jones of The Athletic.",
+              "desc": "Shoulder",
+              "status": "Out For Season",
+              "start_date": "2025-11-01",
+              "update_date": "2025-11-05"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Thunder",
+      "market": "Oklahoma City",
+      "sr_id": "sr:team:3418",
+      "reference": "1610612760",
+      "players": [
+        {
+          "id": "bf6b4aed-c007-41eb-b4e5-08b99f292ec2",
+          "full_name": "Nikola Topić",
+          "first_name": "Nikola",
+          "last_name": "Topić",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "44",
+          "sr_id": "sr:player:2324735",
+          "reference": "1642260",
+          "injuries": [
+            {
+              "id": "32f2c875-5801-4e89-91d7-1ef00abc2aee",
+              "comment": "The Thunder announced that Topic is dealing with testicular cancer and there is no timetable for his return.",
+              "desc": "Groin",
+              "status": "Out",
+              "start_date": "2025-10-19",
+              "update_date": "2025-10-30"
+            }
+          ]
+        },
+        {
+          "id": "8936c15e-f9d5-4b9a-80b9-8f6b7dcf7a17",
+          "full_name": "Alex Caruso",
+          "first_name": "Alex",
+          "last_name": "Caruso",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "9",
+          "sr_id": "sr:player:1239222",
+          "reference": "1627936",
+          "injuries": [
+            {
+              "id": "928982eb-63ac-4dac-abc8-926733ffc7e7",
+              "comment": "Caruso did not play in Tuesday's (Dec. 2) game against the Warriors.",
+              "desc": "Quad",
+              "status": "Day To Day",
+              "start_date": "2025-11-30",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "38745a56-7472-4844-a2dc-f61d3bcd941f",
+          "full_name": "Isaiah Hartenstein",
+          "first_name": "Isaiah",
+          "last_name": "Hartenstein",
+          "position": "C-F",
+          "primary_position": "C",
+          "jersey_number": "55",
+          "sr_id": "sr:player:1142566",
+          "reference": "1628392",
+          "injuries": [
+            {
+              "id": "a2e81ba9-c33e-442f-9bdd-9f3e8848ebb4",
+              "comment": "Hartenstein sustained a right soleus strain and will be re-evaluated in 10-to-14 days, Michael Scotto of USA Today reports.",
+              "desc": "Ankle",
+              "status": "Out",
+              "start_date": "2025-11-28",
+              "update_date": "2025-11-30"
+            }
+          ]
+        },
+        {
+          "id": "c56cbf7a-42a4-41a2-a37b-0cd4aaf248d0",
+          "full_name": "Thomas Sorber",
+          "first_name": "Thomas",
+          "last_name": "Sorber",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "12",
+          "sr_id": "sr:player:2868741",
+          "reference": "1642850",
+          "injuries": [
+            {
+              "id": "a3f7a012-1c49-4cdd-8d0d-d8b79c1e3255",
+              "comment": "The Thunder announced on Friday (Sept. 5) that Sorber will miss the 2025-2026 season with a torn ACL.",
+              "desc": "Knee",
+              "status": "Out For Season",
+              "start_date": "2025-09-05",
+              "update_date": "2025-09-05"
+            }
+          ]
+        },
+        {
+          "id": "3f7e2350-e208-4791-98c2-684b53bb5a9a",
+          "full_name": "Luguentz Dort",
+          "first_name": "Luguentz",
+          "last_name": "Dort",
+          "position": "G",
+          "primary_position": "SF",
+          "jersey_number": "5",
+          "sr_id": "sr:player:1586536",
+          "reference": "1629652",
+          "injuries": [
+            {
+              "id": "c7441b70-e12f-4b62-a24c-8b999f54071e",
+              "comment": "Dort did not play in Tuesday's (Dec. 2) game against the Warriors.",
+              "desc": "Adductor",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Trail Blazers",
+      "market": "Portland",
+      "sr_id": "sr:team:3414",
+      "reference": "1610612757",
+      "players": [
+        {
+          "id": "a978acbc-e84b-4cc4-85c9-30595e022847",
+          "full_name": "Scoot Henderson",
+          "first_name": "Scoot",
+          "last_name": "Henderson",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "00",
+          "sr_id": "sr:player:2299169",
+          "reference": "1630703",
+          "injuries": [
+            {
+              "id": "331c2307-606f-4b0c-a190-096153de5d0d",
+              "comment": "The Trail Blazers announced Friday (Nov. 21) that Henderson will be re-evaluated in 2-4 weeks.",
+              "desc": "Hamstring",
+              "status": "Out",
+              "start_date": "2025-09-26",
+              "update_date": "2025-11-21"
+            }
+          ]
+        },
+        {
+          "id": "8b43c272-c16b-40c7-a4d5-7bbcefeb1816",
+          "full_name": "Matisse Thybulle",
+          "first_name": "Matisse",
+          "last_name": "Thybulle",
+          "position": "G-F",
+          "primary_position": "SG",
+          "jersey_number": "4",
+          "sr_id": "sr:player:1167898",
+          "reference": "1629680",
+          "injuries": [
+            {
+              "id": "5694b2d7-410f-40bc-9a2a-3c105c276a9d",
+              "comment": "The Trail Blazers announced that Thybulle underwent surgery Friday (Oct. 31) to repair a torn UCL in his left thumb and will be re-evaluated in 4-6 weeks.",
+              "desc": "Thumb",
+              "status": "Out",
+              "start_date": "2025-10-30",
+              "update_date": "2025-10-31"
+            }
+          ]
+        },
+        {
+          "id": "65700e81-3aa0-49a9-8a94-004f2cfb64e5",
+          "full_name": "Jrue Holiday",
+          "first_name": "Jrue",
+          "last_name": "Holiday",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "5",
+          "sr_id": "sr:player:607876",
+          "reference": "201950",
+          "injuries": [
+            {
+              "id": "73814dc2-de2a-4664-a3b9-1586afb8b9e7",
+              "comment": "The Trail Blazers announced Friday (Nov. 21) that Holiday will be re-evaluated in 1-to-2 weeks.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-11-16",
+              "update_date": "2025-11-21"
+            }
+          ]
+        },
+        {
+          "id": "08baba55-bec0-4494-95ce-28778c37a981",
+          "full_name": "Blake Wesley",
+          "first_name": "Blake",
+          "last_name": "Wesley",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "1",
+          "sr_id": "sr:player:2216892",
+          "reference": "1631104",
+          "injuries": [
+            {
+              "id": "932765d6-9b16-4410-9f2f-cf29042fbab2",
+              "comment": "Wesley underwent a successful procedure to repair a fracture of the fifth metatarsal base in his right foot Wednesday (Nov. 5), and he's expected to be sidelined for 8-12 weeks, per Brett Siegel of ClutchPoints.com.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-11-03",
+              "update_date": "2025-11-05"
+            }
+          ]
+        },
+        {
+          "id": "5382cf43-3a79-4a5a-a7fd-153906fe65dd",
+          "full_name": "Damian Lillard",
+          "first_name": "Damian",
+          "last_name": "Lillard",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:607552",
+          "reference": "203081",
+          "injuries": [
+            {
+              "id": "f4652835-edd3-4aae-af23-cfc80b9d5a92",
+              "comment": "The Trail Blazers said on Thursday (Sept. 25) that Lillard won't be back on the court for the 2025-26 season due to his achilles injury.",
+              "desc": "Achilles",
+              "status": "Out For Season",
+              "start_date": "2025-09-25",
+              "update_date": "2025-09-25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Mavericks",
+      "market": "Dallas",
+      "sr_id": "sr:team:3411",
+      "reference": "1610612742",
+      "players": [
+        {
+          "id": "1b31afe2-7fb7-42d1-8eef-003c5eb619c2",
+          "full_name": "Dereck Lively II",
+          "first_name": "Dereck",
+          "last_name": "Lively",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "2",
+          "name_suffix": "II",
+          "sr_id": "sr:player:2444995",
+          "reference": "1641726",
+          "injuries": [
+            {
+              "id": "380119a3-aa27-4b70-8d70-2a86917e6679",
+              "comment": "The Mavericks announced Thursday (Nov. 4) that Lively has no timetable for a return, as per Brett Siegel of ClutchPoints.com reports.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-11-22",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "6d7f4f2f-7ea7-4c56-8082-dfdce67f5487",
+          "full_name": "P.J. Washington",
+          "first_name": "P.J.",
+          "last_name": "Washington",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "25",
+          "sr_id": "sr:player:1307734",
+          "reference": "1629023",
+          "injuries": [
+            {
+              "id": "80c887bf-6132-4e01-ba19-76702a4b21dc",
+              "comment": "Washington did not play in Wednesday's (Dec. 3) game against Miami.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "dd146010-902b-4ad7-b98c-650d0363a2f0",
+          "full_name": "Kyrie Irving",
+          "first_name": "Kyrie",
+          "last_name": "Irving",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "11",
+          "sr_id": "sr:player:608268",
+          "reference": "202681",
+          "injuries": [
+            {
+              "id": "819d93be-5ff2-4bd3-8181-7aa182fe3e50",
+              "comment": "The Mavericks said on Monday (Sept. 29) that Irving is ahead of schedule in his left ACL recovery but there's no timeline on his return yet. ",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-03-03",
+              "update_date": "2025-09-29"
+            }
+          ]
+        },
+        {
+          "id": "0d187d04-4cd9-44b3-9a29-408fac5b011e",
+          "full_name": "Danté Exum",
+          "first_name": "Danté",
+          "last_name": "Exum",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:607872",
+          "reference": "203957",
+          "injuries": [
+            {
+              "id": "97ff6ee3-ad9e-4d9f-83fb-f0eb30a60f62",
+              "comment": "The Mavericks announced on Friday (Nov. 21) that Exum will undergo season-ending knee surgery.",
+              "desc": "Knee",
+              "status": "Out For Season",
+              "start_date": "2025-10-21",
+              "update_date": "2025-11-21"
+            }
+          ]
+        },
+        {
+          "id": "52cd8137-c791-4569-ad70-433e25d34882",
+          "full_name": "Daniel Gafford",
+          "first_name": "Daniel",
+          "last_name": "Gafford",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "21",
+          "sr_id": "sr:player:1286466",
+          "reference": "1629655",
+          "injuries": [
+            {
+              "id": "c290f3f1-044f-4a70-9b49-895b9a576c35",
+              "comment": "Gafford did not return to Wednesday's (Dec.3) game against the Heat.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Cavaliers",
+      "market": "Cleveland",
+      "sr_id": "sr:team:3432",
+      "reference": "1610612739",
+      "players": [
+        {
+          "id": "6b8ed06d-a33f-46ce-b416-647100736df8",
+          "full_name": "Sam Merrill",
+          "first_name": "Sam",
+          "last_name": "Merrill",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "5",
+          "sr_id": "sr:player:1169328",
+          "reference": "1630241",
+          "injuries": [
+            {
+              "id": "38f1582b-f6f2-4b5d-87ef-996b2a1a8f88",
+              "comment": "Merrill did not play in Wednesday's (Dec. 3) game against Portland.",
+              "desc": "Hand",
+              "status": "Day To Day",
+              "start_date": "2025-11-18",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "f6aff1dc-15b9-4c89-a2fb-746f4cf78890",
+          "full_name": "Max Strus",
+          "first_name": "Max",
+          "last_name": "Strus",
+          "position": "G-F",
+          "primary_position": "SF",
+          "jersey_number": "1",
+          "sr_id": "sr:player:1853516",
+          "reference": "1629622",
+          "injuries": [
+            {
+              "id": "438f1dab-8ae8-4fa2-b7cd-b546faf98071",
+              "comment": "Strus is no longer wearing a walking boot Tuesday (Sept. 30) but still has a lengthy recovery process ahead due to the surgery on his fractured left foot, per Chris Fedor of The Cleveland Plain Dealer.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-08-26",
+              "update_date": "2025-09-30"
+            }
+          ]
+        },
+        {
+          "id": "ad389979-d1d5-4f26-ad64-3e516b3373a3",
+          "full_name": "Larry Nance Jr.",
+          "first_name": "Larry",
+          "last_name": "Nance",
+          "position": "F-C",
+          "primary_position": "PF",
+          "jersey_number": "22",
+          "name_suffix": "Jr.",
+          "sr_id": "sr:player:852066",
+          "reference": "1626204",
+          "injuries": [
+            {
+              "id": "db1bc4c5-de09-4ba4-b818-fdc49e087fc4",
+              "comment": "The Cavaliers reported Nance Jr. to miss at least 3-4 weeks with a calf strain.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-11-29",
+              "update_date": "2025-11-30"
+            }
+          ]
+        },
+        {
+          "id": "a3fff5c7-19b6-4dac-bd75-11b944bea505",
+          "full_name": "Jarrett Allen",
+          "first_name": "Jarrett",
+          "last_name": "Allen",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "31",
+          "sr_id": "sr:player:1124733",
+          "reference": "1628386",
+          "injuries": [
+            {
+              "id": "e286596d-b008-410c-a9a7-4808c81911a7",
+              "comment": "The Cavaliers announced Sunday (Nov. 30) that Allen is expected to miss at least one week.",
+              "desc": "Finger",
+              "status": "Out",
+              "start_date": "2025-11-29",
+              "update_date": "2025-11-30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Knicks",
+      "market": "New York",
+      "sr_id": "sr:team:3421",
+      "reference": "1610612752",
+      "players": [
+        {
+          "id": "467f6843-4a9d-413b-9924-d2188d60e6fe",
+          "full_name": "Landry Shamet",
+          "first_name": "Landry",
+          "last_name": "Shamet",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "44",
+          "sr_id": "sr:player:1172484",
+          "reference": "1629013",
+          "injuries": [
+            {
+              "id": "3c570575-4082-431c-9140-9bb6d2982bb7",
+              "comment": "Shamet will be re-evaluated in four weeks, Shams Charania of ESPN reports.",
+              "desc": "Shoulder",
+              "status": "Out",
+              "start_date": "2025-11-23",
+              "update_date": "2025-11-26"
+            }
+          ]
+        },
+        {
+          "id": "9474fa0a-70dd-44c4-9751-dac5839ae7f3",
+          "full_name": "OG Anunoby",
+          "first_name": "OG",
+          "last_name": "Anunoby",
+          "position": "F-G",
+          "primary_position": "PF",
+          "jersey_number": "8",
+          "sr_id": "sr:player:1123905",
+          "reference": "1628384",
+          "injuries": [
+            {
+              "id": "8c3fc45a-2463-4c49-9300-c76d7655e2d3",
+              "comment": "The Knicks said on Sunday (Nov. 16) that Anunoby will be re-evaluated in two weeks, according to Shams Charania of ESPN.",
+              "desc": "Hamstring",
+              "status": "Out",
+              "start_date": "2025-11-16",
+              "update_date": "2025-11-16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Rockets",
+      "market": "Houston",
+      "sr_id": "sr:team:3412",
+      "reference": "1610612745",
+      "players": [
+        {
+          "id": "45f17314-918c-49bd-a482-adc171859025",
+          "full_name": "Fred VanVleet",
+          "first_name": "Fred",
+          "last_name": "VanVleet",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "5",
+          "sr_id": "sr:player:1070982",
+          "reference": "1627832",
+          "injuries": [
+            {
+              "id": "4647837d-a4f2-4b44-aed8-583c0075000f",
+              "comment": "The Rockets said on Monday (Sept. 22) that VanVleet suffered a torn ACL and may be out for the entire 2025-26 campaign, per Shams Charania of ESPN.",
+              "desc": "ACL",
+              "status": "Out For Season",
+              "start_date": "2025-09-22",
+              "update_date": "2025-09-22"
+            }
+          ]
+        },
+        {
+          "id": "426357dc-340b-4d89-8e3b-7d6b4022b460",
+          "full_name": "Dorian Finney-Smith",
+          "first_name": "Dorian",
+          "last_name": "Finney-Smith",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "2",
+          "sr_id": "sr:player:1050927",
+          "reference": "1627827",
+          "injuries": [
+            {
+              "id": "bc5f7787-05a7-4b5f-8a0e-453b52b5a8cd",
+              "comment": "Head coach Ime Udoka told Michael Shapiro of SI.com that Finney-Smith was behind schedule in his recovery, but the Rockets haven't offered up any sort of timeline regarding when the veteran forward might play. Consider Finney-Smith week-to-week until the ",
+              "desc": "Ankle",
+              "status": "Out",
+              "start_date": "2025-10-18",
+              "update_date": "2025-11-18"
+            }
+          ]
+        },
+        {
+          "id": "e7373530-b566-4f36-b0de-0510b6d94e0e",
+          "full_name": "Tari Eason",
+          "first_name": "Tari",
+          "last_name": "Eason",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "17",
+          "sr_id": "sr:player:2081607",
+          "reference": "1631106",
+          "injuries": [
+            {
+              "id": "c011c76c-0a58-43e8-8643-88ea320e45e9",
+              "comment": "The Rockets announced that Eason will miss at least four weeks due to an oblique injury.",
+              "desc": "Oblique",
+              "status": "Out",
+              "start_date": "2025-11-15",
+              "update_date": "2025-11-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Nuggets",
+      "market": "Denver",
+      "sr_id": "sr:team:3417",
+      "reference": "1610612743",
+      "players": [
+        {
+          "id": "cbc1a455-6cf8-4174-ace6-b0e250936f74",
+          "full_name": "Christian Braun",
+          "first_name": "Christian",
+          "last_name": "Braun",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1793966",
+          "reference": "1631128",
+          "injuries": [
+            {
+              "id": "46c1f3dd-87aa-45e1-9b90-f1fd2f363b2f",
+              "comment": "Christian Braun will be re-evaluated in six weeks after suffering a left ankle sprain during Wednesday's (Nov. 12) win over the Clippers, Shams Charania of ESPN reports.",
+              "desc": "Ankle",
+              "status": "Out",
+              "start_date": "2025-11-12",
+              "update_date": "2025-11-14"
+            }
+          ]
+        },
+        {
+          "id": "20f85838-0bd5-4c1f-ab85-a308bafaf5bc",
+          "full_name": "Aaron Gordon",
+          "first_name": "Aaron",
+          "last_name": "Gordon",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "32",
+          "sr_id": "sr:player:607864",
+          "reference": "203932",
+          "injuries": [
+            {
+              "id": "57c37133-8fee-4642-9d25-934d96591ba9",
+              "comment": "Gordon will be re-evaluated in 4-to-6 weeks, as per Shams Charania of ESPN reports.",
+              "desc": "Hamstring",
+              "status": "Out",
+              "start_date": "2025-11-21",
+              "update_date": "2025-11-23"
+            }
+          ]
+        },
+        {
+          "id": "dfce9679-dd27-4522-ab74-e197b3635d73",
+          "full_name": "Spencer Jones",
+          "first_name": "Spencer",
+          "last_name": "Jones",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "21",
+          "sr_id": "sr:player:1876374",
+          "reference": "1642461",
+          "injuries": [
+            {
+              "id": "97a0a6cf-7cdc-4a3e-9cfa-8365fc648394",
+              "comment": "The Nuggets have listed Jones as Questionable for Friday's (Nov. 5) game against the Hawks.",
+              "desc": "Knee",
+              "status": "Day To Day",
+              "start_date": "2025-12-04",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "39111764-a140-4086-9220-fd4264d9072d",
+          "full_name": "Julian Strawther",
+          "first_name": "Julian",
+          "last_name": "Strawther",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "3",
+          "sr_id": "sr:player:2080529",
+          "reference": "1631124",
+          "injuries": [
+            {
+              "id": "ea5cfed9-78fc-41cd-9a90-87991b902b50",
+              "comment": "Strawther did not play in Wednesday's (Dec. 3) game against Indiana.",
+              "desc": "Back",
+              "status": "Day To Day",
+              "start_date": "2025-11-16",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Celtics",
+      "market": "Boston",
+      "sr_id": "sr:team:3422",
+      "reference": "1610612738",
+      "players": [
+        {
+          "id": "98136da3-452f-49dc-a794-1ee9c76443f2",
+          "full_name": "Jayson Tatum",
+          "first_name": "Jayson",
+          "last_name": "Tatum",
+          "position": "F-G",
+          "primary_position": "PF",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1141196",
+          "reference": "1628369",
+          "injuries": [
+            {
+              "id": "52b224f4-610e-4927-b98e-dd9258d484e1",
+              "comment": "The Celtics have not ruled Tatum out for the 2025-26 season, ESPN's Shams Charania reported on the Pat McAfee Show on Thursday (Oct. 9).",
+              "desc": "Achilles",
+              "status": "Out",
+              "start_date": "2025-05-12",
+              "update_date": "2025-10-09"
+            }
+          ]
+        },
+        {
+          "id": "ffc5579c-783f-4d62-80ab-3c3dcb05a27d",
+          "full_name": "Jaylen Brown",
+          "first_name": "Jaylen",
+          "last_name": "Brown",
+          "position": "G-F",
+          "primary_position": "SF",
+          "jersey_number": "7",
+          "sr_id": "sr:player:996297",
+          "reference": "1627759",
+          "injuries": [
+            {
+              "id": "ada7c558-3c57-4f88-a608-fbb440849a18",
+              "comment": "The Celtics listed Brown as OUT for Thursday's (Dec. 4) game against Washinton.",
+              "desc": "Illness",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Suns",
+      "market": "Phoenix",
+      "sr_id": "sr:team:3416",
+      "reference": "1610612756",
+      "players": [
+        {
+          "id": "c722d438-db08-421e-9484-9e7d2f67c05d",
+          "full_name": "Isaiah Livers",
+          "first_name": "Isaiah",
+          "last_name": "Livers",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "18",
+          "sr_id": "sr:player:1316816",
+          "reference": "1630587",
+          "injuries": [
+            {
+              "id": "5c124729-c2ce-42ce-a766-c828a7d14571",
+              "comment": "Livers did not play in Monday's (Dec. 1) game against the Lakers.",
+              "desc": "Hip",
+              "status": "Day To Day",
+              "start_date": "2025-11-28",
+              "update_date": "2025-12-02"
+            }
+          ]
+        },
+        {
+          "id": "31baa84f-c759-4f92-8e1f-a92305ade3d6",
+          "full_name": "Devin Booker",
+          "first_name": "Devin",
+          "last_name": "Booker",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "1",
+          "sr_id": "sr:player:852170",
+          "reference": "1626164",
+          "injuries": [
+            {
+              "id": "75430656-11e5-4b9b-9529-5491e59db4b7",
+              "comment": "The Suns reported Devin Booker (groin) won't return Monday.",
+              "desc": "Groin",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-01"
+            }
+          ]
+        },
+        {
+          "id": "ffa9a64f-d624-4033-bd23-59dcfd805175",
+          "full_name": "Grayson Allen",
+          "first_name": "Grayson",
+          "last_name": "Allen",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "8",
+          "sr_id": "sr:player:1497615",
+          "reference": "1628960",
+          "injuries": [
+            {
+              "id": "d18117da-d20f-4337-a254-1ef317bbde1c",
+              "comment": "Allen did not play in Monday's (Dec. 1) game against the Lakers.",
+              "desc": "Illness",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-02"
+            }
+          ]
+        },
+        {
+          "id": "9a331092-35db-456c-a44a-d5b80a02ebe9",
+          "full_name": "Jalen Green",
+          "first_name": "Jalen",
+          "last_name": "Green",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "4",
+          "sr_id": "sr:player:2195912",
+          "reference": "1630224",
+          "injuries": [
+            {
+              "id": "eb02fb00-bde0-42ee-8d92-740ad88c0e55",
+              "comment": "Green will be re-evaluated in four-to-six weeks, as per Shams Charania of ESPN reports.",
+              "desc": "Hamstring",
+              "status": "Out",
+              "start_date": "2025-11-09",
+              "update_date": "2025-11-11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "76ers",
+      "market": "Philadelphia",
+      "sr_id": "sr:team:3420",
+      "reference": "1610612755",
+      "players": [
+        {
+          "id": "9f4181d5-0999-46ba-b466-d90ded24268a",
+          "full_name": "Trendon Watford",
+          "first_name": "Trendon",
+          "last_name": "Watford",
+          "position": "G-F",
+          "primary_position": "PF",
+          "jersey_number": "12",
+          "sr_id": "sr:player:1795024",
+          "reference": "1630570",
+          "injuries": [
+            {
+              "id": "5c41b4f2-d5f1-4028-bf75-5388f854870f",
+              "comment": "Watford will be re-evaluated in two weeks, according to Noah Levick of NBC Sports Philadelphia reports.",
+              "desc": "Thigh",
+              "status": "Out",
+              "start_date": "2025-11-25",
+              "update_date": "2025-11-26"
+            }
+          ]
+        },
+        {
+          "id": "7dfa0971-96be-4705-9811-f9f54758145f",
+          "full_name": "Kelly Oubre Jr.",
+          "first_name": "Kelly",
+          "last_name": "Oubre",
+          "position": "F-G",
+          "primary_position": "SF",
+          "jersey_number": "9",
+          "name_suffix": "Jr.",
+          "sr_id": "sr:player:852166",
+          "reference": "1626162",
+          "injuries": [
+            {
+              "id": "bc695632-3822-4f63-8591-9fd3003b22fa",
+              "comment": "Oubre will miss at least two weeks, Tony Jones of The Athletic reports.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-16",
+              "update_date": "2025-11-19"
+            }
+          ]
+        },
+        {
+          "id": "db09f372-9a17-4889-add7-bf8a75ab6da6",
+          "full_name": "Paul George",
+          "first_name": "Paul",
+          "last_name": "George",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "8",
+          "sr_id": "sr:player:608072",
+          "reference": "202331",
+          "injuries": [
+            {
+              "id": "e2d554f3-aa7a-48c1-912b-5d2cc3b87be6",
+              "comment": "The 76ers listed George as OUT for Thursday's (Dec. 4) game against Golden State.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pistons",
+      "market": "Detroit",
+      "sr_id": "sr:team:3424",
+      "reference": "1610612765",
+      "players": [
+        {
+          "id": "4707d9b8-fca3-4550-ae25-bd4b449e4dbf",
+          "full_name": "Marcus Sasser",
+          "first_name": "Marcus",
+          "last_name": "Sasser",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "25",
+          "sr_id": "sr:player:1830350",
+          "reference": "1631204",
+          "injuries": [
+            {
+              "id": "5db576e1-b2c7-467a-9578-0acff44fbc64",
+              "comment": "The Detroit Pistons announced on Saturday (Nov. 8) that Sasser will remain out as he continues rehabilitation for a right hip impingement. He will be re-evaluated in approximately four weeks.",
+              "desc": "Hip",
+              "status": "Out",
+              "start_date": "2025-10-21",
+              "update_date": "2025-11-08"
+            }
+          ]
+        },
+        {
+          "id": "18d35316-9f40-408c-abcc-ab49e06ef8e8",
+          "full_name": "Duncan Robinson",
+          "first_name": "Duncan",
+          "last_name": "Robinson",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "55",
+          "sr_id": "sr:player:1512651",
+          "reference": "1629130",
+          "injuries": [
+            {
+              "id": "91ae1505-fccb-4d70-9aff-edcb7af962e2",
+              "comment": "Robinson did not play in Wednesday's (Dec. 3) game against the Bucks.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-11-30",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "b4b3cfce-16f1-4f30-acc0-2bac1eb51d66",
+          "full_name": "Bobi Klintman",
+          "first_name": "Bobi",
+          "last_name": "Klintman",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "34",
+          "sr_id": "sr:player:2445135",
+          "reference": "1641752",
+          "injuries": [
+            {
+              "id": "d0722fc8-cc5a-445a-acfc-dbfdccb094b5",
+              "comment": "Klintman did not play in Wednesday's (Dec. 3) game against the Bucks.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-11-16",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Magic",
+      "market": "Orlando",
+      "sr_id": "sr:team:3437",
+      "reference": "1610612753",
+      "players": [
+        {
+          "id": "f1f258c2-9bcf-4e33-ba9e-563e95084893",
+          "full_name": "Moritz Wagner",
+          "first_name": "Moritz",
+          "last_name": "Wagner",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "21",
+          "sr_id": "sr:player:1177150",
+          "reference": "1629021",
+          "injuries": [
+            {
+              "id": "5e22fe7d-dac8-4054-aab8-94f145f97f7f",
+              "comment": "The Magic announced that Wagner continues to rehab from his ACL injury. He can be considered week-to-week.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-15",
+              "update_date": "2025-11-19"
+            }
+          ]
+        },
+        {
+          "id": "49d8f5ef-2867-4597-a3ab-5ffc5e651258",
+          "full_name": "Paolo Banchero",
+          "first_name": "Paolo",
+          "last_name": "Banchero",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "5",
+          "sr_id": "sr:player:2216960",
+          "reference": "1631094",
+          "injuries": [
+            {
+              "id": "ba411f8a-f033-40a6-b43b-da7d7b969335",
+              "comment": "Banchero did not play in Wednesday's (Dec. 3) game against the Spurs.",
+              "desc": "Groin",
+              "status": "Day To Day",
+              "start_date": "2025-11-12",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Clippers",
+      "market": "LA",
+      "sr_id": "sr:team:3425",
+      "reference": "1610612746",
+      "players": [
+        {
+          "id": "ff461754-ad20-4eeb-af02-2b46cc980b24",
+          "full_name": "Bradley Beal",
+          "first_name": "Bradley",
+          "last_name": "Beal",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:607418",
+          "reference": "203078",
+          "injuries": [
+            {
+              "id": "6033eb68-62fc-4a4b-a3d2-44daadeeeb98",
+              "comment": "Beal will undergo season-ending surgery on his left hip, as per ESPN's Shams Charania reports.",
+              "desc": "Hip",
+              "status": "Out For Season",
+              "start_date": "2025-11-10",
+              "update_date": "2025-11-12"
+            }
+          ]
+        },
+        {
+          "id": "9f25f9f8-6028-4f4b-8e05-48b43272c167",
+          "full_name": "Jordan Miller",
+          "first_name": "Jordan",
+          "last_name": "Miller",
+          "position": "G",
+          "primary_position": "SF",
+          "jersey_number": "22",
+          "sr_id": "sr:player:1591402",
+          "reference": "1641757",
+          "injuries": [
+            {
+              "id": "7df4bf8d-17fe-43b8-a68b-42a96baba4c3",
+              "comment": "Miller did not play in Wednesday's (Dec. 3) game against the Hawks.",
+              "desc": "Hamstring",
+              "status": "Day To Day",
+              "start_date": "2025-11-17",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "54cf6e06-9172-44b8-8d3b-ea1b6926553d",
+          "full_name": "Derrick Jones Jr.",
+          "first_name": "Derrick",
+          "last_name": "Jones",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "5",
+          "name_suffix": "Jr.",
+          "sr_id": "sr:player:1075216",
+          "reference": "1627884",
+          "injuries": [
+            {
+              "id": "a4417091-d5f0-42f5-85f4-d1e064665519",
+              "comment": "The Clippers said Jones Jr. to miss at least 6 weeks with sprained MCL.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-17",
+              "update_date": "2025-11-17"
+            }
+          ]
+        },
+        {
+          "id": "b4282659-dd1a-4042-a075-7df4890858e7",
+          "full_name": "Bogdan Bogdanović",
+          "first_name": "Bogdan",
+          "last_name": "Bogdanović",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "10",
+          "sr_id": "sr:player:607922",
+          "reference": "203992",
+          "injuries": [
+            {
+              "id": "e5ccdcc1-555f-4419-b45e-ab9a1e48e2c6",
+              "comment": "Bogdanovic did not play in Wednesday's (Dec. 3) game against the Hawks.",
+              "desc": "Hip",
+              "status": "Day To Day",
+              "start_date": "2025-11-22",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Grizzlies",
+      "market": "Memphis",
+      "sr_id": "sr:team:3415",
+      "reference": "1610612763",
+      "players": [
+        {
+          "id": "df62b7c5-faaa-4f37-a716-b7e034aa03eb",
+          "full_name": "Scotty Pippen Jr.",
+          "first_name": "Scotty",
+          "last_name": "Pippen",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "1",
+          "name_suffix": "Jr.",
+          "sr_id": "sr:player:1831704",
+          "reference": "1630590",
+          "injuries": [
+            {
+              "id": "6ebc8b46-7d94-4d38-a61b-da003b926701",
+              "comment": "The Grizzlies announced on Saturday (Oct. 18) that Pippen Jr. will undergo a procedure on his left big toe injury and will be re-evaluated in 12 weeks.",
+              "desc": "Toe",
+              "status": "Out",
+              "start_date": "2025-10-18",
+              "update_date": "2025-10-18"
+            }
+          ]
+        },
+        {
+          "id": "d1951755-732a-453b-bede-69ff9e5a595c",
+          "full_name": "Javon Small",
+          "first_name": "Javon",
+          "last_name": "Small",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "10",
+          "sr_id": "sr:player:2218444",
+          "reference": "1642914",
+          "injuries": [
+            {
+              "id": "7756661e-aa53-4fef-9fc3-b0016aa74d72",
+              "comment": "The Grizzlies announced on Saturday (Nov. 15) that Small will be reevaluated in approximately three weeks.",
+              "desc": "Toe",
+              "status": "Out",
+              "start_date": "2025-11-09",
+              "update_date": "2025-11-15"
+            }
+          ]
+        },
+        {
+          "id": "9983bed6-e53c-4c65-a90a-51546a0e3352",
+          "full_name": "Ja Morant",
+          "first_name": "Ja",
+          "last_name": "Morant",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "12",
+          "sr_id": "sr:player:1770166",
+          "reference": "1629630",
+          "injuries": [
+            {
+              "id": "a7d0aab5-3da6-40d5-8150-88a0ee019a94",
+              "comment": "HC Toumas Iisalo said Thursday (Dec. 4) that Morant is now considered day-to-day, as per Michael Wallace of the Grizzlies' official site reports.",
+              "desc": "Calf",
+              "status": "Day To Day",
+              "start_date": "2025-11-15",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "c978afe7-cf22-45fc-8d0f-da8f867eb5ee",
+          "full_name": "Brandon Clarke",
+          "first_name": "Brandon",
+          "last_name": "Clarke",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "15",
+          "sr_id": "sr:player:1164396",
+          "reference": "1629634",
+          "injuries": [
+            {
+              "id": "acb6c243-94e7-4391-82d8-4b4502f5437d",
+              "comment": "The Grizzlies announced Tuesday (Nov. 11) that Clarke is progressing well, but he will be sidelined for another six-to-nine weeks.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-09-26",
+              "update_date": "2025-11-11"
+            }
+          ]
+        },
+        {
+          "id": "03cf6eb6-688a-49b1-a4cc-f10c39c21725",
+          "full_name": "Ty Jerome",
+          "first_name": "Ty",
+          "last_name": "Jerome",
+          "position": "G-F",
+          "primary_position": "SG",
+          "jersey_number": "2",
+          "sr_id": "sr:player:1167498",
+          "reference": "1629660",
+          "injuries": [
+            {
+              "id": "c8425341-6d14-46c2-a170-505c8363d43e",
+              "comment": "The Grizzlies said on Saturday (Nov. 22) that Jerome is expected to make his season debut within 6-9 weeks.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-10-20",
+              "update_date": "2025-11-22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Pelicans",
+      "market": "New Orleans",
+      "sr_id": "sr:team:5539",
+      "reference": "1610612740",
+      "players": [
+        {
+          "id": "66b88001-06c2-4f4a-9825-b6e0cc1df6cc",
+          "full_name": "Herbert Jones",
+          "first_name": "Herbert",
+          "last_name": "Jones",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "2",
+          "sr_id": "sr:player:1296160",
+          "reference": "1630529",
+          "injuries": [
+            {
+              "id": "70646fbb-f8fd-4cb5-adc1-4457fce9a91f",
+              "comment": "The Pelicans said on Monday (Nov. 24) that Herb Jones will miss at least 1 week.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-11-22",
+              "update_date": "2025-11-24"
+            }
+          ]
+        },
+        {
+          "id": "7ff3c32f-2552-454d-9dee-a1d52000458a",
+          "full_name": "Yves Missi",
+          "first_name": "Yves",
+          "last_name": "Missi",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "21",
+          "sr_id": "sr:player:2652491",
+          "reference": "1642274",
+          "injuries": [
+            {
+              "id": "75f6c5a8-8c26-480b-8b95-f4bc6e6cbe23",
+              "comment": "The Pelicans listed Missi as OUT for Thursday's (Dec. 4) game against Minnesota.",
+              "desc": "Foot",
+              "status": "Out",
+              "start_date": "2025-12-02",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "7d27ec3b-1e31-4b0f-abcf-e12039a0e27b",
+          "full_name": "Dejounte Murray",
+          "first_name": "Dejounte",
+          "last_name": "Murray",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "5",
+          "sr_id": "sr:player:996315",
+          "reference": "1627749",
+          "injuries": [
+            {
+              "id": "a3070ef9-ad58-49e8-8540-b27ae38a33b7",
+              "comment": "The Pelicans said on Thursday (Sept. 25) that Murray could return right after New Year's.",
+              "desc": "Leg",
+              "status": "Out",
+              "start_date": "2025-01-31",
+              "update_date": "2025-09-25"
+            }
+          ]
+        },
+        {
+          "id": "5cc51c05-06f5-4ae4-89a4-1d329fbbcdfb",
+          "full_name": "Zion Williamson",
+          "first_name": "Zion",
+          "last_name": "Williamson",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "1",
+          "sr_id": "sr:player:1770164",
+          "reference": "1629627",
+          "injuries": [
+            {
+              "id": "be62441f-b331-4ef0-b66c-206fe9210d82",
+              "comment": "Williamson will miss extended time with a right abductor injury according to Shams Charania of ESPN. He will be re-evaluated in three weeks.",
+              "desc": "Abductor",
+              "status": "Out",
+              "start_date": "2025-12-02",
+              "update_date": "2025-12-02"
+            }
+          ]
+        },
+        {
+          "id": "2ed2f76f-5a2f-4d79-ab7c-e84a8a42dc21",
+          "full_name": "Jordan Poole",
+          "first_name": "Jordan",
+          "last_name": "Poole",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "3",
+          "sr_id": "sr:player:1316820",
+          "reference": "1629673",
+          "injuries": [
+            {
+              "id": "c12e7fc8-f99b-46ef-8621-4011544ba6e6",
+              "comment": "The Pelicans listed Poole as OUT for Thursday's (Dec. 4) game against Minnesota.",
+              "desc": "Quad",
+              "status": "Out",
+              "start_date": "2025-11-05",
+              "update_date": "2025-12-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Spurs",
+      "market": "San Antonio",
+      "sr_id": "sr:team:3429",
+      "reference": "1610612759",
+      "players": [
+        {
+          "id": "bde7f42e-7296-453d-bcba-cac6fad2d03f",
+          "full_name": "Jordan McLaughlin",
+          "first_name": "Jordan",
+          "last_name": "McLaughlin",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1161592",
+          "reference": "1629162",
+          "injuries": [
+            {
+              "id": "885a2867-8b2b-43ab-971c-1f831306d1c5",
+              "comment": "McLaughlin did not play in Tuesday's (Dec. 2) game against the Grizzlies.",
+              "desc": "Hamstring",
+              "status": "Day To Day",
+              "start_date": "2025-11-17",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "98e2cdeb-69dc-499c-a853-84c32c714924",
+          "full_name": "Victor Wembanyama",
+          "first_name": "Victor",
+          "last_name": "Wembanyama",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "1",
+          "sr_id": "sr:player:1941074",
+          "reference": "1641705",
+          "injuries": [
+            {
+              "id": "bf73a4d1-08a4-4880-93c9-b952b21e256c",
+              "comment": "Wembanyama has a left calf strain and is expected to be sidelined for a few weeks, according to sources ESPN reports",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-11-15",
+              "update_date": "2025-11-17"
+            }
+          ]
+        },
+        {
+          "id": "ddee4a31-2791-4339-bfc3-a058ce2d1397",
+          "full_name": "Stephon Castle",
+          "first_name": "Stephon",
+          "last_name": "Castle",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "5",
+          "sr_id": "sr:player:2690764",
+          "reference": "1642264",
+          "injuries": [
+            {
+              "id": "def71d4e-cb92-4d39-81bd-63533c3ff8ce",
+              "comment": "Castle did not play in Tuesday's (Dec. 2) game against the Grizzlies.",
+              "desc": "Hip",
+              "status": "Day To Day",
+              "start_date": "2025-11-17",
+              "update_date": "2025-12-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Hawks",
+      "market": "Atlanta",
+      "sr_id": "sr:team:3423",
+      "reference": "1610612737",
+      "players": [
+        {
+          "id": "3c5901ef-af1d-441d-aeed-8e0a93cead49",
+          "full_name": "Kristaps Porziņģis",
+          "first_name": "Kristaps",
+          "last_name": "Porziņģis",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "8",
+          "sr_id": "sr:player:852216",
+          "reference": "204001",
+          "injuries": [
+            {
+              "id": "88c8732e-7a32-4659-a994-dce2d1b61c2e",
+              "comment": "Porzingis did not play in Wednesday's (Dec. 3) game against the Clippers.",
+              "desc": "Illness",
+              "status": "Day To Day",
+              "start_date": "2025-11-28",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "a4f71454-3994-4994-a03d-1279da83989d",
+          "full_name": "Jacob Toppin",
+          "first_name": "Jacob",
+          "last_name": "Toppin",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "0",
+          "sr_id": "sr:player:1876290",
+          "reference": "1631210",
+          "injuries": [
+            {
+              "id": "8e407254-526a-4349-9c6b-cb29361a474e",
+              "comment": "Toppin did not play in Wednesday's (Dec. 3) game against the Clippers.",
+              "desc": "Shoulder",
+              "status": "Day To Day",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "cf418e0c-de9d-438f-a1ac-3be539a56c42",
+          "full_name": "Trae Young",
+          "first_name": "Trae",
+          "last_name": "Young",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "11",
+          "sr_id": "sr:player:1300846",
+          "reference": "1629027",
+          "injuries": [
+            {
+              "id": "955a29db-ebcf-416f-afc1-48473d77265b",
+              "comment": "The Hawks reported on Saturday (Nov. 29) that Young will be re-evaluated in approximately two weeks.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-10-29",
+              "update_date": "2025-11-29"
+            }
+          ]
+        },
+        {
+          "id": "d222539f-fa52-4070-807f-d3aba372f46d",
+          "full_name": "Jalen Johnson",
+          "first_name": "Jalen",
+          "last_name": "Johnson",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "1",
+          "sr_id": "sr:player:2078875",
+          "reference": "1630552",
+          "injuries": [
+            {
+              "id": "e8c5d4e7-56af-4e02-9b06-b9e47d2a42bc",
+              "comment": "Johnson did not play in Wednesday's (Dec. 3) game against the Clippers.",
+              "desc": "Calf",
+              "status": "Day To Day",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Bucks",
+      "market": "Milwaukee",
+      "sr_id": "sr:team:3410",
+      "reference": "1610612749",
+      "players": [
+        {
+          "id": "6c60282d-165a-4cba-8e5a-4f2d9d4c5905",
+          "full_name": "Giannis Antetokounmpo",
+          "first_name": "Giannis",
+          "last_name": "Antetokounmpo",
+          "position": "F",
+          "primary_position": "PF",
+          "jersey_number": "34",
+          "sr_id": "sr:player:607336",
+          "reference": "203507",
+          "injuries": [
+            {
+              "id": "8ebcba12-ddb3-4f65-a5cf-b12f0b1099cd",
+              "comment": "Antetokounmpo is expected to be sidelined for two-to-four weeks, as per ESPN's Shams Charania reports.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "4f80cdb1-1b10-4669-9774-045bc8a99c99",
+          "full_name": "Taurean Prince",
+          "first_name": "Taurean",
+          "last_name": "Prince",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "12",
+          "sr_id": "sr:player:996279",
+          "reference": "1627752",
+          "injuries": [
+            {
+              "id": "e2f9b863-f430-4a79-aff9-32fe25fab3d6",
+              "comment": "The Team announce that Prince underwent surgery Thursday (Nov. 13) to repair the herniated disc in his neck and will remain out indefinitely.",
+              "desc": "Neck",
+              "status": "Out",
+              "start_date": "2025-11-07",
+              "update_date": "2025-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Kings",
+      "market": "Sacramento",
+      "sr_id": "sr:team:3413",
+      "reference": "1610612758",
+      "players": [
+        {
+          "id": "a2c6a907-282f-4172-9d60-42d03987da0e",
+          "full_name": "Dennis Schröder",
+          "first_name": "Dennis",
+          "last_name": "Schröder",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "17",
+          "sr_id": "sr:player:607388",
+          "reference": "203471",
+          "injuries": [
+            {
+              "id": "9d222f3d-a578-45ea-9ec3-2727481f14ae",
+              "comment": "Schroder did not play in Wednesday's (Dec. 3) game against the Rockets.",
+              "desc": "Hip",
+              "status": "Day To Day",
+              "start_date": "2025-11-25",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "22038780-8c50-4211-a99e-656d983e5207",
+          "full_name": "Domantas Sabonis",
+          "first_name": "Domantas",
+          "last_name": "Sabonis",
+          "position": "F-C",
+          "primary_position": "C",
+          "jersey_number": "11",
+          "sr_id": "sr:player:996309",
+          "reference": "1627734",
+          "injuries": [
+            {
+              "id": "cea9ebe6-514e-400f-824d-2e79fd2e67bf",
+              "comment": "Sacramento Kings star center Domantas Sabonis has suffered a partially torn meniscus in his left knee and will be re-evaluated in 3-to-4 weeks, per Shams Charania of ESPN.",
+              "desc": "Knee",
+              "status": "Out",
+              "start_date": "2025-11-18",
+              "update_date": "2025-11-20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Wizards",
+      "market": "Washington",
+      "sr_id": "sr:team:3431",
+      "reference": "1610612764",
+      "players": [
+        {
+          "id": "53e011ee-504f-473e-bb26-bfe34533ca10",
+          "full_name": "Sharife Cooper",
+          "first_name": "Sharife",
+          "last_name": "Cooper",
+          "position": "G",
+          "primary_position": "PG",
+          "jersey_number": "13",
+          "sr_id": "sr:player:2088293",
+          "reference": "1630536",
+          "injuries": [
+            {
+              "id": "a18b8e9f-565c-4e38-ad62-807db94aa228",
+              "comment": "The wizards listed Cooper as OUT for Thursday's (Dec. 4) game against Boston.",
+              "desc": "Calf",
+              "status": "Out",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "19561190-edab-4465-a82d-7e42a7635800",
+          "full_name": "Tre Johnson",
+          "first_name": "Tre",
+          "last_name": "Johnson",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "12",
+          "sr_id": "sr:player:2866507",
+          "reference": "1642848",
+          "injuries": [
+            {
+              "id": "b248625c-1999-49b7-a112-b19bf04e8de0",
+              "comment": "The Wizards said on Monday (Nov. 24) that Johnson has a strained left hip flexor and doesn't have a timetable to return, per Josh Robbins of The Athletic.",
+              "desc": "Hip",
+              "status": "Out",
+              "start_date": "2025-11-22",
+              "update_date": "2025-11-24"
+            }
+          ]
+        },
+        {
+          "id": "27db7dbb-6aad-44df-a3f4-7e1c21c2f256",
+          "full_name": "Bilal Coulibaly",
+          "first_name": "Bilal",
+          "last_name": "Coulibaly",
+          "position": "G",
+          "primary_position": "SF",
+          "jersey_number": "0",
+          "sr_id": "sr:player:2453239",
+          "reference": "1641731",
+          "injuries": [
+            {
+              "id": "dc632007-382b-438e-8083-b03886dcc2dd",
+              "comment": "The Wizards listed Coulibaly as OUT for Thursday's (Dec. 4) game against Boston.",
+              "desc": "Oblique",
+              "status": "Out",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-03"
+            }
+          ]
+        },
+        {
+          "id": "3358cc38-7331-43ad-af04-ebd34fe328e7",
+          "full_name": "Corey Kispert",
+          "first_name": "Corey",
+          "last_name": "Kispert",
+          "position": "F",
+          "primary_position": "SF",
+          "jersey_number": "24",
+          "sr_id": "sr:player:1319316",
+          "reference": "1630557",
+          "injuries": [
+            {
+              "id": "e3fc576b-f643-40ae-ae3f-53c2bb41e611",
+              "comment": "The Wizards listed Kispert as OUT for Thursday's (Dec. 4) game against Boston.",
+              "desc": "Thumb",
+              "status": "Out",
+              "start_date": "2025-11-27",
+              "update_date": "2025-12-04"
+            }
+          ]
+        },
+        {
+          "id": "fe4c4f99-5dfb-4e32-b69a-da8c5a779c27",
+          "full_name": "Alex Sarr",
+          "first_name": "Alex",
+          "last_name": "Sarr",
+          "position": "C",
+          "primary_position": "C",
+          "jersey_number": "20",
+          "sr_id": "sr:player:2683073",
+          "reference": "1642259",
+          "injuries": [
+            {
+              "id": "eaef97a9-6067-4e71-b841-77e03187b353",
+              "comment": "The wizards listed Sarr as OUT for Thursday's (Dec. 4) game against Boston.",
+              "desc": "Adductor",
+              "status": "Out",
+              "start_date": "2025-12-01",
+              "update_date": "2025-12-03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+      "name": "Heat",
+      "market": "Miami",
+      "sr_id": "sr:team:3435",
+      "reference": "1610612748",
+      "players": [
+        {
+          "id": "e1e4c26d-ab5c-4bd7-886a-812854466bb8",
+          "full_name": "Norman Powell",
+          "first_name": "Norman",
+          "last_name": "Powell",
+          "position": "G",
+          "primary_position": "SG",
+          "jersey_number": "24",
+          "sr_id": "sr:player:852180",
+          "reference": "1626181",
+          "injuries": [
+            {
+              "id": "c3f5b15f-6750-464e-8f47-223ee2697f32",
+              "comment": "Powell did not play in Wednesday's (Dec. 3) game against Mavericks.",
+              "desc": "Ankle",
+              "status": "Day To Day",
+              "start_date": "2025-12-03",
+              "update_date": "2025-12-04"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

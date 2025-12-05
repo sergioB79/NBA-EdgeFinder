@@ -1,0 +1,252 @@
+[
+  {
+    "rank": 1,
+    "value": null,
+    "player_id": "b6dde96e-3748-4cbe-86d2-798d5dffb3c0",
+    "player_name": "Donovan Mitchell",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 2,
+    "value": null,
+    "player_id": "75fc46eb-71d8-4d1a-984f-3747ccd7a4c9",
+    "player_name": "Tyrese Maxey",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 3,
+    "value": null,
+    "player_id": "d2ee92e9-3e72-45eb-b156-2dc5adc1e6f7",
+    "player_name": "Luka Dončić",
+    "position": "F-G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 4,
+    "value": null,
+    "player_id": "a52b2c84-9c3d-4d6e-8a3b-10e75d11c2bc",
+    "player_name": "James Harden",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 5,
+    "value": null,
+    "player_id": "d0c7135a-1aea-40cb-ba20-df656de71749",
+    "player_name": "Anthony Edwards",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 6,
+    "value": null,
+    "player_id": "3a7d6510-00e9-4265-81df-864a1f547269",
+    "player_name": "Michael Porter Jr.",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 7,
+    "value": null,
+    "player_id": "616c60bf-f7ce-482d-a9c8-10c6c7fbef97",
+    "player_name": "AJ Green",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 8,
+    "value": null,
+    "player_id": "0b9a642d-d6f6-4c65-a7bd-d82e016e1b5d",
+    "player_name": "Kon Knueppel",
+    "position": "G-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 9,
+    "value": null,
+    "player_id": "685576ef-ea6c-4ccf-affd-18916baf4e60",
+    "player_name": "Jamal Murray",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 10,
+    "value": null,
+    "player_id": "9cfad453-b323-43dc-a066-6cd0a21745ad",
+    "player_name": "Donte DiVincenzo",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 11,
+    "value": null,
+    "player_id": "e1e4c26d-ab5c-4bd7-886a-812854466bb8",
+    "player_name": "Norman Powell",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 12,
+    "value": null,
+    "player_id": "32526c95-bc6e-4d28-a751-c4200904d80b",
+    "player_name": "Royce O'Neale",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 13,
+    "value": null,
+    "player_id": "60b8026e-e154-4ed7-a247-8e4af1dbf668",
+    "player_name": "Collin Gillespie",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 14,
+    "value": null,
+    "player_id": "583d7994-36f9-4a9a-b527-c18704406981",
+    "player_name": "Lauri Markkanen",
+    "position": "F-C",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 14,
+    "value": null,
+    "player_id": "18d35316-9f40-408c-abcc-ab49e06ef8e8",
+    "player_name": "Duncan Robinson",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 16,
+    "value": null,
+    "player_id": "c4981f56-93a2-47b1-8d31-4e8635f45e1d",
+    "player_name": "Austin Reaves",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 17,
+    "value": null,
+    "player_id": "36d083a5-49ca-42f1-80b7-b78275a8abd9",
+    "player_name": "Isaiah Joe",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 18,
+    "value": null,
+    "player_id": "51b62fe8-1e5c-4c65-8ad3-2ad06e749b70",
+    "player_name": "Trey Murphy III",
+    "position": "F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 18,
+    "value": null,
+    "player_id": "9bcd5cff-4a1c-4454-89b6-a5899b0c6bcc",
+    "player_name": "Derrick White",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 20,
+    "value": null,
+    "player_id": "4e152a06-673e-4701-b115-aa7e2cd00d2d",
+    "player_name": "Klay Thompson",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 21,
+    "value": null,
+    "player_id": "bc70a55a-cee0-478f-9a13-cf51c4a4187c",
+    "player_name": "CJ McCollum",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 22,
+    "value": null,
+    "player_id": "d3d0ab55-b939-47b3-af27-77cdf85d7956",
+    "player_name": "Nickeil Alexander-Walker",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 23,
+    "value": null,
+    "player_id": "0718c0e1-7804-471a-b4ed-cde778948d4d",
+    "player_name": "Payton Pritchard",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 24,
+    "value": null,
+    "player_id": "355a6113-d842-40be-9e74-90bb0800aabe",
+    "player_name": "Miles McBride",
+    "position": "G",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  },
+  {
+    "rank": 24,
+    "value": null,
+    "player_id": "fe215630-2dc5-4573-95cc-c1b14abbbbcd",
+    "player_name": "Devin Vassell",
+    "position": "G-F",
+    "team_id": null,
+    "team_alias": null,
+    "team_name": null
+  }
+]

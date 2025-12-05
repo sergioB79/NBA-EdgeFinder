@@ -594,6 +594,20 @@ function calculatePrognosticsV2(parsedQuartersData: any[], homeTeamId: string, a
   return { homeTeam: homePrognostics, awayTeam: awayPrognostics };
 }
 
+interface CsvGameRow {
+  game_id: string;
+  home_id: string;
+  home_name: string;
+  home_alias: string;
+  away_id: string;
+  away_name: string;
+  away_alias: string;
+  scheduled: string;
+  status?: string;
+  home_score?: string;
+  away_score?: string;
+}
+
 export async function GET(request: NextRequest, context: { params: Promise<{ gameId: string }> } | { params: { gameId: string } }) {
   const params = await (context as any).params;
   const gameId = params?.gameId;
@@ -608,12 +622,12 @@ export async function GET(request: NextRequest, context: { params: Promise<{ gam
     const { rankMap: eloRankMap, eloMap } = await loadEloRankings();
 
     // 2. Parse quarters CSV to find the specific game
-    const parsedQuarters = Papa.parse(quartersCsvFile, {
+    const parsedQuarters = Papa.parse<CsvGameRow>(quartersCsvFile, {
       header: true,
       skipEmptyLines: true,
     });
 
-    const gameDetailsFromCsv = parsedQuarters.data.find((game: any) => game.game_id === gameId);
+    const gameDetailsFromCsv = (parsedQuarters.data as CsvGameRow[]).find((game) => game.game_id === gameId);
     const gameDetailsFromJson = gamesTodayJson.games.find((game: any) => game.id === gameId); // Find in games_today.json
 
     if (!gameDetailsFromCsv && !gameDetailsFromJson) {

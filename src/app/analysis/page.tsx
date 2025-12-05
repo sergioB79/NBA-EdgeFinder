@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { Card, Row, Col, Table } from 'react-bootstrap';
 import { getNicknameFromAlias } from '../utils/localStorage';
@@ -125,6 +125,14 @@ interface GameAnalysisData {
 }
 
 export default function AnalysisPage() {
+  return (
+    <Suspense fallback={<p>Loading analysis...</p>}>
+      <AnalysisContent />
+    </Suspense>
+  );
+}
+
+function AnalysisContent() {
   const searchParams = useSearchParams();
   let gameId = searchParams.get('gameId'); // Use 'let' to allow reassignment
 
@@ -170,8 +178,9 @@ export default function AnalysisPage() {
           getNicknameFromAlias(data.awayTeam.alias) || data.awayTeam.name
         );
 
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err: unknown) {
+        const message = err instanceof Error ? err.message : 'Failed to fetch game analysis data';
+        setError(message);
       } finally {
         setLoading(false);
       }

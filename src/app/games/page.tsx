@@ -32,7 +32,8 @@ export default function GamesPage() {
         const data = await response.json();
         setGames(data.games);
       } catch (err) {
-        setError(err.message);
+        const message = err instanceof Error ? err.message : 'Failed to fetch data';
+        setError(message);
       } finally {
         setLoading(false);
       }

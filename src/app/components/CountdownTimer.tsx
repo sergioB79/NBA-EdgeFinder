@@ -6,9 +6,15 @@ interface CountdownTimerProps {
 }
 
 const CountdownTimer = ({ targetDate }: CountdownTimerProps) => {
-  const calculateTimeLeft = () => {
+  type TimeLeft = {
+    days?: number;
+    hours?: number;
+    minutes?: number;
+  };
+
+  const calculateTimeLeft = (): TimeLeft => {
     const difference = +new Date(targetDate) - +new Date();
-    let timeLeft = {};
+    let timeLeft: TimeLeft = {};
 
     if (difference > 0) {
       timeLeft = {
@@ -21,7 +27,7 @@ const CountdownTimer = ({ targetDate }: CountdownTimerProps) => {
     return timeLeft;
   };
 
-  const [timeLeft, setTimeLeft] = useState(calculateTimeLeft());
+  const [timeLeft, setTimeLeft] = useState<TimeLeft>(calculateTimeLeft());
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -31,16 +37,17 @@ const CountdownTimer = ({ targetDate }: CountdownTimerProps) => {
     return () => clearTimeout(timer);
   });
 
-  const timerComponents: JSX.Element[] = [];
+  const timerComponents: React.ReactNode[] = [];
 
-  Object.keys(timeLeft).forEach((interval) => {
-    if (!timeLeft[interval]) {
+  (Object.keys(timeLeft) as Array<keyof TimeLeft>).forEach((interval) => {
+    const value = timeLeft[interval];
+    if (!value && value !== 0) {
       return;
     }
 
     timerComponents.push(
       <span key={interval}>
-        {timeLeft[interval]} {interval}{" "}
+        {value} {interval}{" "}
       </span>
     );
   });

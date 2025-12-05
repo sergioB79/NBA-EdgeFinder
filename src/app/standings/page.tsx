@@ -170,8 +170,9 @@ export default function StandingsPage() {
 
         setAllTeams(allTeamsProcessed);
         setConferences(conferenceViewModels);
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err: unknown) {
+        const message = err instanceof Error ? err.message : 'Failed to fetch standings';
+        setError(message);
       } finally {
         setLoading(false);
       }

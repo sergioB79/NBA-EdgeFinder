@@ -124,8 +124,9 @@ export default function PlayerInfoPage() {
         if (!response.ok) throw new Error('Failed to fetch analysis data');
         const data = await response.json();
         setAnalysisData(data);
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err: unknown) {
+        const message = err instanceof Error ? err.message : 'Failed to fetch analysis data';
+        setError(message);
       } finally {
         setLoading(false);
       }

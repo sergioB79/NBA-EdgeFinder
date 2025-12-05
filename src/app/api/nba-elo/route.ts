@@ -22,7 +22,7 @@ interface EloRecord {
 
 export async function GET() {
   try {
-    const csvFilePath = path.join(process.cwd(), '..', 'data', 'nba_elo_ranking_2025.csv');
+    const csvFilePath = path.join(process.cwd(), 'data', 'nba_elo_ranking_2025.csv');
     const csvFile = fs.readFileSync(csvFilePath, 'utf8');
 
     const parsedCsv = Papa.parse<EloRow>(csvFile, {

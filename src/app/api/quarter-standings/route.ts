@@ -26,7 +26,7 @@ interface TeamData {
 
 export async function GET() {
   try {
-    const csvFilePath = path.join(process.cwd(), '..', 'data', 'quarters_2025_REG.csv');
+    const csvFilePath = path.join(process.cwd(), 'data', 'quarters_2025_REG.csv');
     const csvFile = fs.readFileSync(csvFilePath, 'utf8');
 
     const teamsData: { [id: string]: TeamData } = {};

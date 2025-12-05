@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import fs from 'fs/promises';
 import path from 'path';
 
-const dataDir = path.join(process.cwd(), '..', 'data');
+const dataDir = path.join(process.cwd(), 'data');
 
 async function readJsonFile(filename: string) {
   const filePath = path.join(dataDir, filename);

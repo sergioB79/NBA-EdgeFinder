@@ -1,66 +1,57 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+"use client";
+import { Container, Row, Col, Card, Button } from 'react-bootstrap';
+import Image from 'next/image';
 
-export default function Home() {
+export default function LandingPage() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.tsx file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <Container className="mt-5 text-center">
+      <Row className="justify-content-md-center">
+        <Col md={8}>
+          <Image src="/globe.svg" alt="NBA - Edge Finder Logo" width={150} height={150} className="mb-4" />
+          <h1 className="display-4">Welcome to NBA - Edge Finder</h1>
+          <p className="lead">
+            Your ultimate source for NBA game analysis, real-time standings, player statistics, and expert tips.
           </p>
-        </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+          <hr className="my-4" />
+          <p>
+            Dive deep into the data and gain an edge with our comprehensive tools and insights.
+          </p>
+          <Button href="/games" variant="primary" size="lg">Get Started</Button>
+        </Col>
+      </Row>
+
+      <Row className="mt-5">
+        <Col md={4}>
+          <Card bg="dark" text="white" className="mb-4">
+            <Card.Body>
+              <Card.Title>Real-Time Game Data</Card.Title>
+              <Card.Text>
+                Follow today's games with live countdowns and essential details.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col md={4}>
+          <Card bg="dark" text="white" className="mb-4">
+            <Card.Body>
+              <Card.Title>In-Depth Standings</Card.Title>
+              <Card.Text>
+                Analyze team performance with filterable standings for home, away, and conference games.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+        <Col md={4}>
+          <Card bg="dark" text="white" className="mb-4">
+            <Card.Body>
+              <Card.Title>Comprehensive Analysis</Card.Title>
+              <Card.Text>
+                Explore league leaders, injury reports, and detailed quarter-by-quarter statistics.
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </Col>
+      </Row>
+    </Container>
   );
 }
